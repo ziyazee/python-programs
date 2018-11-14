@@ -1,4 +1,4 @@
-# s="kiran always rande maga"
+
 # for i,k in enumerate(s):
 #    print(i,k)
 
